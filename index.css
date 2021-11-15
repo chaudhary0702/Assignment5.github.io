@@ -1,0 +1,36 @@
+h2{
+    color: rgb(7, 7, 7);
+    font-weight: bolder;
+}
+    
+
+
+button {
+    background-color: #edf1ed; /* Green */
+    border: round;
+    color: rgb(48, 47, 47);
+    text-align: center;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 70px;
+    height: 33px;
+}
+input{
+    padding:10px ;
+    width: 140px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1 px solid rgb(218, 215, 215);
+}
+select{
+    padding: 1px;
+    display: inline-block;
+}
+
+body{
+    background-color: #7c3434;
+    font-size: 25px;
+    color: rgb(5, 5, 5);
+}
